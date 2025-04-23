@@ -32,4 +32,4 @@
  <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/google/google.png" alt="Google" height="40" style="vertical-align:top; margin:4px">
 </p>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=46siri&show_icons=true&theme=onedark)
+
