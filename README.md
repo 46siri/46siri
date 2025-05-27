@@ -1,6 +1,6 @@
 ### Hi there! I'm Meriam 👋
 
-<br />I'm a Software Engineering Student at University of Minho and I am currently finishing my master's degree.
+<br />I'm a Software Engineering Student at University of Minho and I am currently finishing my master's thesis.
 <br />I'm also a Healthcare Software Engineer, hospitals app development based on HL7 v2, HL7 FHIR, Java, PLSQL and Kafka for data migration at Capgemini Engineering.
 
 <br />Connect with me on: [![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=badge&logo=linkedin&logoColor=white)][1] 
