@@ -2,7 +2,7 @@
 
 🏥 I'm a **Healthcare Integration Specialist and Computer Engineer** working in digital health and healthcare interoperability.
 
-🔄 I design and deliver healthcare integrations—from requirements analysis and technical architecture to implementation, testing, deployment, monitoring, and support.
+🔄 I design and deliver healthcare integrations, from requirements analysis and technical architecture to implementation, testing, deployment, monitoring, and support.
 
 🩺 My main areas of expertise include **HL7 FHIR R4**, **HL7 v2**, healthcare APIs, integration architecture, data transformation, and clinical-system interoperability.
 
